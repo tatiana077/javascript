@@ -1,2 +1,2 @@
 # javascript
- Exercicios de JavaScrpt
+ Exercicios de JavaScript.
